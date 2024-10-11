@@ -28,27 +28,29 @@
 
 <h2 align="center">
   ～ AI-Powered Automated Repository Management Template ～
+
+  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/blob/main/README.md"><img src="https://img.shields.io/badge/ドキュメント-日本語-white.svg" alt="JA doc"/></a>
+  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/blob/main/docs/README.en.md"><img src="https://img.shields.io/badge/english-document-white.svg" alt="EN doc"></a>
 </h2>
 
-> **[!IMPORTANT]**
-> HarmonAI III is a template repository developed using [cline (formerly Claude Dev)](https://github.com/clinebot/cline) and [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage).  A large portion of the release notes, README, and commit messages were generated using the latest AI technology.
-
+> [!IMPORTANT]
+> HarmonAI III is a template repository developed using [cline (formerly Claude Dev)](https://github.com/clinebot/cline) and [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage).  Most of the release notes, README, and commit messages are generated using the latest AI technology.
 
 ## 🚀 Project Overview
 
-HarmonAI III is an innovative **AI repository starter kit** integrating AIRA and IRIS. This repository aims to dramatically improve developer efficiency by providing a structure and workflow for AI development projects leveraging LLMs. Version: `v1.0.0`
+HarmonAI III is an innovative **AI repository starter kit** integrating AIRA and IRIS. This repository aims to dramatically improve developer efficiency by providing the structure and workflow for AI development projects leveraging LLMs. Version: `v1.0.0`
 
 
 ## 📅 Update Information
 
-- 🎉 **2024-10-11**: **HarmonAI III** [Release v1.0.0](https://github.com/Sunwood-ai-labs/HarmonAI_III/releases/tag/v1.0.0) Project launched
+- 🎉 【2024-10-11】 : **HarmonAI III** [Release v1.0.0](https://github.com/Sunwood-ai-labs/HarmonAI_III/releases/tag/v1.0.0) Project Launch
 
 ## ✨ Key Features
 
 1. **Integrated AI Toolset**: Provides the functionality of AIRA and IRIS in a single package.
-2. **Ready-to-Use**: Easily create a repository with a high-quality initial structure by using it as a template.
+2. **Ready to Use**: Easily create a repository with a high-quality initial structure by using it as a template.
 3. **Automated Development Workflow**: Automates commit message generation, release note creation, and issue management.
-4. **Multilingual Support**: Automated README translation functionality supports international project deployment.
+4. **Multilingual Support**: Supports international project deployment through automated README translation.
 5. **Flexible Customization**: Easily adjustable to suit the needs of your project.
 
 ## 🛠️ How to Use
@@ -60,7 +62,7 @@ aira --mode sourcesage commit  --config=.aira\config.dev.commit.yml --ss-model-n
 
 ### IRIS Example:
 
-Refer to the documentation for each component for detailed usage instructions.
+For detailed usage instructions, please refer to the documentation for each component.
 
 
 ## 📦 Installation Instructions
@@ -78,13 +80,13 @@ Refer to the documentation for each component for detailed usage instructions.
 
 ## 🌿 Environment Setup
 
-Follow these steps to set up the HarmonAI III environment:
+To set up the HarmonAI III environment, follow these steps:
 
 1. Create a virtual environment:
    ```bash
    python3 -m venv .venv
    ```
-   This creates a virtual environment in the `.venv` directory.
+   This will create a virtual environment in the `.venv` directory.
 
 2. Activate the virtual environment:
    ```bash
@@ -100,7 +102,7 @@ Follow these steps to set up the HarmonAI III environment:
 These steps will prepare the HarmonAI III development environment.
 
 
-## 📚 Major Components
+## 📚 Main Components
 
 ### 🤖 [AIRA (AI-Integrated Repository for Accelerated Development)](https://github.com/Sunwood-ai-labs/AIRA)
 - Automated repository creation
@@ -125,14 +127,14 @@ graph LR
     C -->|Automated| D[Development Work]
     D -->|Human Action| E[AIRA Automated Commits]
     E --> H[IRIS Release Note Creation]
-    H --> I[IRIS Documentation Translation]
+    H --> I[IRIS Document Translation]
     I --> J[Release]
     J --> K[End]
 
-    class B,D human;
+    class B,D,G human;
     class E aira;
     class F,H,I iris;
-    class C automated;
+    class C auto;
     class A,J,K process;
 
 ```
@@ -140,7 +142,7 @@ graph LR
 
 ## 🤝 Contributions
 
-HarmonAI III welcomes contributions from the community as an open-source project. Please help improve this template repository through bug reports, feature requests, and pull requests.
+HarmonAI III welcomes contributions from the community as an open-source project.  Help improve this template repository through bug reports, feature requests, and pull requests.
 
 ## 📄 License
 
@@ -148,7 +150,7 @@ HarmonAI III is released under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgements
 
-HarmonAI III's development has been inspired by many open-source projects.  We especially thank the developers of AIRA and IRIS.  Thanks also to Maki.
+HarmonAI III has been inspired by many open-source projects.  We especially thank the developers of AIRA and IRIS.  Thanks also to Maki.
 
 ---
 
