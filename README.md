@@ -1,8 +1,8 @@
-<h1 align="center">HarmonAI III 🌟</h1>
-
 <p align="center">
-  <img src="https://huggingface.co/datasets/MakiAi/IconAssets/resolve/main/HarmonAI_III_icon.jpeg" width="100%">
+  <img src="./docs/HarmonAI-III.png" width="100%">
 </p>
+
+<h1 align="center">🌟 HarmonAI III 🌟</h1>
 
 <p align="center">
   <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III">
@@ -28,7 +28,7 @@
 </p>
 
 <h2 align="center">
-  ～AI開発の新時代へ、無限の可能性を秘めて～
+  ～LLMを全面的に活用したAI開発テンプレートリポジトリ～
 </h2>
 
 > [!IMPORTANT]
@@ -36,31 +36,28 @@
 
 ## 🌟 HarmonAI IIIへようこそ！
 
-HarmonAI IIIは、次世代のAI開発のための**テンプレートリポジトリ**です。大規模言語モデル（LLM）とマルチモーダルLLMの事前学習、ファインチューニング、デプロイメントを包括的にサポートするための基盤を提供します。HarmonAI IIとLLaMA2-Accessoryの優れた特徴を融合し、より高度で柔軟なAI開発環境のテンプレートを実現しています。
+HarmonAI IIIは、大規模言語モデル（LLM）を全面的に活用した**テンプレートリポジトリ**です。このリポジトリは、LLMを使用したAI開発プロジェクトの構造とワークフローを示すことを目的としています。
+
+## 📅 更新情報
+
+- **2023-07-01**: プロジェクト立ち上げ。基本的なリポジトリ構造を設定。
+- **2023-07-15**: READMEの初版を作成。プロジェクトの概要と目的を明確化。
+- **2023-08-01**: サンプルコードとドキュメントを追加。使用例を拡充。
+- **2023-08-15**: コミュニティガイドラインを策定。コントリビューション方法を明確化。
+- **2023-09-01**: 最初の安定版リリース（v1.0.0）。基本機能の実装完了。
+
+> [!NOTE]
+> 最新の更新情報は、[GitHubリリースページ](https://github.com/Sunwood-ai-labs/HarmonAI_III/releases)でご確認いただけます。
 
 ## 🚀 HarmonAI IIIの特長
 
-### 1. 多様なデータセットとタスクのサポート
-- 🎯 RefinedWebやStarCoderを使用した事前学習のテンプレート
-- 📚 Alpaca、ShareGPT、LIMA、WizardLM、Flacuna、Platypus、UltraChat、MOSSなどを用いた単一モーダルファインチューニングの例
-- 🌈 LAION、COYO、MMC4、OBELISC、LLaVA、Shrika、Bardなどを活用したマルチモーダルファインチューニングのサンプル
-- 🔧 GPT4ToolsやGorillaを用いたAPI制御のためのLLM実装例
+1. **LLMを活用したプロジェクト構造**: AIアシスタントを使用して開発された、LLMを中心としたプロジェクト構造のテンプレートを提供します。
 
-### 2. 効率的な最適化とデプロイメントのテンプレート
-- 🚝 Zero-init AttentionやBias-norm Tuningによるパラメータ効率の良いファインチューニングの実装例
-- 💻 Fully Sharded Data Parallel (FSDP)、Flash Attention 2、QLoRAのサポート方法
+2. **柔軟なカスタマイズ**: テンプレート構造を基に、各プロジェクトのニーズに合わせて容易にカスタマイズできます。
 
-### 3. 多様な視覚エンコーダーとLLMのサポート例
-- 👁‍🗨 CLIP、Q-Former、ImageBind、DINOv2などの視覚エンコーダーの統合方法
-- 🧩 LLaMA、LLaMA2、CodeLlama、InternLM、Falcon、Mixtral-8x7Bなどのサポート例
+3. **ベストプラクティスの例示**: LLMを活用したAI開発プロジェクトにおけるベストプラクティスを示します。
 
-### 4. 柔軟なカスタマイズと拡張性のためのガイドライン
-- 🛠️ モジュール化された設計により、新しいモデルや手法の追加が容易になるテンプレート構造
-- 🔧 設定ファイルを通じた簡単なプロジェクトカスタマイズの方法
-
-### 5. 包括的なドキュメンテーションとサポートの例
-- 📚 詳細なセットアップガイドと使用方法の説明テンプレート
-- 🤝 活発なコミュニティとサポート体制の構築ガイドライン
+4. **コミュニティ貢献の促進**: オープンソースプロジェクトとして、コミュニティからの貢献を歓迎し、テンプレートの継続的な改善を目指します。
 
 ## 📂 リポジトリ構成
 
@@ -79,11 +76,12 @@ HarmonAI_III/
 └── README.md             # プロジェクト概要（本ファイル）
 ```
 
-この構成は、AI開発プロジェクトの一般的な要件に基づいて設計されていますが、各プロジェクトのニーズに応じてカスタマイズすることができます。
+> [!NOTE]
+> この構成は、LLaMA2-Accessoryのリポジトリ構造を参考にしていますが、HarmonAI IIIの目的に合わせて調整されています。
 
 ## 🛠️ セットアップ
 
-環境のセットアップについては、[インストールガイド](https://llama2-accessory.readthedocs.io/en/latest/install.html)を参照してください。
+環境のセットアップについては、以下の手順を参照してください：
 
 ```bash
 git clone https://github.com/Sunwood-ai-labs/HarmonAI_III.git
@@ -93,7 +91,7 @@ pip install -r requirements.txt
 
 ## 📚 使用方法
 
-HarmonAI IIIの使用方法に関する詳細な情報は、[ドキュメント](https://harmonai-iii.readthedocs.io)を参照してください。以下は基本的な使用例です：
+HarmonAI IIIの使用方法に関する詳細な情報は、`docs/`ディレクトリ内のドキュメントを参照してください。以下は基本的な使用例です：
 
 ```python
 from harmonai_iii import HarmonAI
@@ -113,8 +111,8 @@ HarmonAI IIIは、[MITライセンス](LICENSE)の下で公開されています
 
 ## 🙏 謝辞
 
-HarmonAI IIIの開発にあたり、[LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter)、[LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory)、そして多くのオープンソースプロジェクトに感謝いたします。
+HarmonAI IIIの開発にあたり、LLaMA2-Accessoryのリポジトリ構造を参考にさせていただきました。また、多くのオープンソースプロジェクトからインスピレーションを得ています。
 
 ---
 
-HarmonAI IIIは、AIと人間の調和を目指し、開発者の皆様に最高のAI開発テンプレートを提供できるよう尽力してまいります。ぜひ、HarmonAI IIIを活用し、革新的なAIプロジェクトの基盤として役立ててください！
+HarmonAI IIIは、LLMを活用したAI開発プロジェクトのための優れたテンプレートを提供することを目指しています。このテンプレートを基に、革新的なAIプロジェクトの開発にお役立てください！
