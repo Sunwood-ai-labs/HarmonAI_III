@@ -30,8 +30,9 @@
   ～ AI-Powered Automated Repository Management Template ～
 </h2>
 
-> [!IMPORTANT]
-> HarmonAI III is a template repository developed using [cline (formerly Claude Dev)](https://github.com/clinebot/cline) and [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage).  A significant portion of the release notes, README, and commit messages were generated using the latest AI technology.
+> **[!IMPORTANT]**
+> HarmonAI III is a template repository developed using [cline (formerly Claude Dev)](https://github.com/clinebot/cline) and [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage).  A large portion of the release notes, README, and commit messages were generated using the latest AI technology.
+
 
 ## 🚀 Project Overview
 
@@ -59,7 +60,7 @@ aira --mode sourcesage commit  --config=.aira\config.dev.commit.yml --ss-model-n
 
 ### IRIS Example:
 
-Refer to the documentation of each component for detailed usage instructions.
+Refer to the documentation for each component for detailed usage instructions.
 
 
 ## 📦 Installation Instructions
@@ -83,7 +84,7 @@ Follow these steps to set up the HarmonAI III environment:
    ```bash
    python3 -m venv .venv
    ```
-   This will create a virtual environment in the `.venv` directory.
+   This creates a virtual environment in the `.venv` directory.
 
 2. Activate the virtual environment:
    ```bash
@@ -96,7 +97,7 @@ Follow these steps to set up the HarmonAI III environment:
    pip install -r requirements.txt
    ```
 
-These steps will prepare the development environment for HarmonAI III.
+These steps will prepare the HarmonAI III development environment.
 
 
 ## 📚 Major Components
@@ -112,26 +113,26 @@ These steps will prepare the development environment for HarmonAI III.
 - Automated README translation
 
 
-## 🐈 Process Flow
+## 🐈 Processing Flow
 
 
 ```mermaid
 %%{init:{'theme':'base','themeVariables':{'primaryColor':'#024959','primaryTextColor':'#F2C335','primaryBorderColor':'#F2AE30','lineColor':'#A1A2A6','secondaryColor':'#593E25','tertiaryColor':'#F2C335','noteTextColor':'#024959','noteBkgColor':'#F2C335','textColor':'#024959','fontSize':'18px'}}}%%
 
 graph LR
-    A[Start] --> B[Repository Conception & Naming]
-    B -->|Human-driven| C[HarmonAI III Repository Initialization]
+    A[Start] --> B[Repository Conception and Naming]
+    B -->|Human Action| C[HarmonAI III Repository Initialization]
     C -->|Automated| D[Development Work]
-    D -->|Human-driven| E[AIRA Automated Commits]
-    E --> H[IRIS Release Note Generation]
+    D -->|Human Action| E[AIRA Automated Commits]
+    E --> H[IRIS Release Note Creation]
     H --> I[IRIS Documentation Translation]
     I --> J[Release]
     J --> K[End]
 
-    class B,D,G human;
+    class B,D human;
     class E aira;
     class F,H,I iris;
-    class C auto;
+    class C automated;
     class A,J,K process;
 
 ```
@@ -139,7 +140,7 @@ graph LR
 
 ## 🤝 Contributions
 
-HarmonAI III welcomes contributions from the community as an open-source project.  Please help improve this template repository through bug reports, feature requests, and pull requests.
+HarmonAI III welcomes contributions from the community as an open-source project. Please help improve this template repository through bug reports, feature requests, and pull requests.
 
 ## 📄 License
 
@@ -147,8 +148,8 @@ HarmonAI III is released under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgements
 
-HarmonAI III has been inspired by many open-source projects.  We especially thank the developers of AIRA and IRIS.  Thanks also to Maki.
+HarmonAI III's development has been inspired by many open-source projects.  We especially thank the developers of AIRA and IRIS.  Thanks also to Maki.
 
 ---
 
-HarmonAI III is an excellent starter kit for achieving an AI-driven development process. Let's start developing innovative AI projects based on this template!
+HarmonAI III is an excellent starter kit for realizing an AI-driven development process.  Start developing innovative AI projects based on this template!
