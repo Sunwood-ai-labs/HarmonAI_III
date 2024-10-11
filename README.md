@@ -61,6 +61,7 @@ HarmonAI IIIは、AIRAとIRISを統合した革新的な**AIリポジトリス�
    ```
 4. AIRAとIRISの設定ファイルをカスタマイズします。
 5. GitHub Actionsの設定を確認し、必要に応じて環境変数を設定します。
+6. `.github/release_notes/.sourcesage_releasenotes_iris.yml`ファイルを開き、`repo-name:`の値を新しいリポジトリ名に修正します。
 
 ## 🌿 環境構築
 
