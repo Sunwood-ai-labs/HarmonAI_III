@@ -1,7 +1,5 @@
-## 🌟 HarmonAI III 🌟
-
 <p align="center">
-  <img src="./docs/HarmonAI-III.png" width="100%">
+  <img src="https://raw.githubusercontent.com/Sunwood-ai-labs/HarmonAI_III/refs/heads/main/docs/HarmonAI-III.png" width="100%">
   <h1 align="center">🌟 HarmonAI III 🌟</h1>
 </p>
 
