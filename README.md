@@ -1,7 +1,8 @@
-# 🌟 HarmonAI III 🌟
+
 
 <p align="center">
   <img src="./docs/HarmonAI-III.png" width="100%">
+  <h1 align="center">🌟 HarmonAI III 🌟</h1>
 </p>
 
 <p align="center">
