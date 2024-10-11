@@ -25,10 +25,16 @@
   </a>
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Sunwood-ai-labs/HarmonAI_III">
   <img alt="Development Status" src="https://img.shields.io/badge/status-active-success.svg">
+
+
+   
 </p>
 
 <h2 align="center">
   ～ AI-Powered Automated Repository Management Template ～
+
+  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/blob/main/README.md"><img src="https://img.shields.io/badge/ドキュメント-日本語-white.svg" alt="JA doc"/></a>
+  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/blob/main/docs/README.en.md"><img src="https://img.shields.io/badge/english-document-white.svg" alt="EN doc"></a>
 </h2>
 
 > [!IMPORTANT]
@@ -136,20 +142,3 @@ graph LR
     class A,J,K process;
 
 ```
-
-
-## 🤝 Contributions
-
-HarmonAI III welcomes contributions from the community as an open-source project. Please help improve this template repository through bug reports, feature requests, and pull requests.
-
-## 📄 License
-
-HarmonAI III is released under the [MIT License](LICENSE).
-
-## 🙏 Acknowledgements
-
-HarmonAI III draws inspiration from many open-source projects.  We especially thank the developers of AIRA and IRIS.  Thanks also to Maki.
-
----
-
-HarmonAI III is an excellent starter kit for achieving an AI-driven development process. Let's start developing innovative AI projects based on this template!
