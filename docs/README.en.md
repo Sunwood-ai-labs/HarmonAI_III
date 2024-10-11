@@ -33,39 +33,40 @@
   <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/blob/main/docs/README.en.md"><img src="https://img.shields.io/badge/english-document-white.svg" alt="EN doc"></a>
 </h2>
 
-> **IMPORTANT:** HarmonAI III is a template repository developed using [cline (formerly Claude Dev)](https://github.com/clinebot/cline) and [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage).  A large portion of the release notes, README, and commit messages were generated using the latest AI technology.
+> [!IMPORTANT]
+> HarmonAI III is a template repository developed using [cline (formerly Claude Dev)](https://github.com/clinebot/cline) and [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage).  A significant portion of the release notes, README, and commit messages are generated using the latest AI technology.
 
 ## 🚀 Project Overview
 
-HarmonAI III is an innovative **AI repository starter kit** integrating AIRA and IRIS. This repository aims to dramatically improve developer efficiency by providing the structure and workflow for AI development projects leveraging LLMs. Version: `v1.1.0`
+HarmonAI III is an innovative **AI repository starter kit** integrating AIRA and IRIS. This repository aims to dramatically improve developer efficiency by providing a structure and workflow for AI development projects leveraging LLMs. Version: `v1.1.0`
 
 
 ## 🆕 Latest News
 
-- v1.1.0 Release: Added documentation links to README.md, corrected the English README, and fixed several bugs.
+- 🎉 【2024-10-11】 : **HarmonAI III** [Release v1.1.0](https://github.com/Sunwood-ai-labs/HarmonAI_III/releases/tag/v1.1.0) Added documentation links.
+- 🎉 【2024-10-11】 : **HarmonAI III** [Release v1.0.0](https://github.com/Sunwood-ai-labs/HarmonAI_III/releases/tag/v1.0.0) Project started.
 
+## ✨ Main Features
 
-## ✨ Key Features
-
-1. **Integrated AI Toolset**: Provides the functionality of AIRA and IRIS in a single package.
+1. **Integrated AI Toolset**: Provides the functionality of AIRA and IRIS in one package.
 2. **Ready to Use**: Easily create a repository with a high-quality initial structure by using it as a template.
 3. **Automated Development Workflow**: Automates commit message generation, release note creation, and issue management.
 4. **Multilingual Support**: Supports international project deployment through automated README translation.
-5. **Flexible Customization**: Easily adaptable to the needs of your project.
+5. **Flexible Customization**: Easily adjustable to suit the needs of your project.
 
 ## 🔧 How to Use
 
-### AIRA Usage Example:
+### AIRA Example:
 ```bash
 aira --mode sourcesage commit  --config=.aira\config.dev.commit.yml --ss-model-name="gpt-4o-mini" --llm-output="llm_output.md"
 ```
 
-### IRIS Usage Example:
+### IRIS Example:
 
-Refer to the documentation for each component for detailed usage instructions.
+For detailed usage instructions, please refer to the documentation for each component.
 
 
-## 📦 Installation Instructions
+## 📦 Installation
 
 1. Use this repository as a template to create a new repository.
 2. Clone the repository locally.
@@ -80,7 +81,7 @@ Refer to the documentation for each component for detailed usage instructions.
 
 ## 🌿 Environment Setup
 
-To set up the HarmonAI III environment, follow these steps:
+Follow these steps to set up the HarmonAI III environment:
 
 1. Create a virtual environment:
    ```bash
@@ -123,11 +124,11 @@ These steps will prepare the development environment for HarmonAI III.
 
 graph LR
     A[Start] --> B[Repository Conception and Naming]
-    B -->|Human Action| C[HarmonAI III Repository Initialization]
+    B -->|Human-led| C[HarmonAI III Repository Initialization]
     C -->|Automated| D[Development Work]
-    D -->|Human Action| E[AIRA Automated Commits]
+    D -->|Human-led| E[AIRA Automated Commits]
     E --> H[IRIS Release Note Creation]
-    H --> I[IRIS Documentation Translation]
+    H --> I[IRIS Document Translation]
     I --> J[Release]
     J --> K[End]
 
@@ -150,8 +151,8 @@ HarmonAI III is released under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgements
 
-Many open-source projects have inspired the development of HarmonAI III.  We especially thank the developers of AIRA and IRIS.  We also thank iris-s-coon and Maki.
+HarmonAI III has drawn inspiration from many open-source projects.  We especially thank the developers of AIRA and IRIS.  Thanks also to iris-s-coon and Maki.
 
 ---
 
-HarmonAI III is an excellent starter kit for achieving an AI-driven development process. Let's start developing innovative AI projects based on this template!
+HarmonAI III is an excellent starter kit for achieving an AI-driven development process.  Start developing innovative AI projects based on this template!
