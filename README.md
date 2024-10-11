@@ -32,7 +32,7 @@
 </h2>
 
 > [!IMPORTANT]
-> HarmonAI IIIは、AIアシスタント([cline](https://github.com/clinebot/cline), [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage))を活用して開発されたテンプレートリポジトリです。リリースノート、README、コミットメッセージの大部分は、最新のAI技術を用いて生成されています。
+> HarmonAI IIIは、[cline (旧:Claude Dev) ](https://github.com/clinebot/cline), [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage)を活用して開発されたテンプレートリポジトリです。リリースノート、README、コミットメッセージの大部分は、最新のAI技術を用いて生成されています。
 
 ## 🚀 HarmonAI IIIへようこそ！
 
@@ -48,8 +48,7 @@ HarmonAI IIIは、AIRAとIRISを統合した革新的な**AIリポジトリス�
 
 ## 📅 更新情報
 
-- 🎉 2023-12-01 : HarmonAI III プロジェクト開始
-- ⚡ 2023-12-15 : パフォーマンス最適化
+- 🎉 【2024-10-11】 : **HarmonAI III** [Release v1.0.0](https://github.com/Sunwood-ai-labs/HarmonAI_III/releases/tag/v1.0.0) プロジェクト開始
 
 ## 🛠️ クイックスタート
 
