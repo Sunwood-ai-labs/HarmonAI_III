@@ -1,7 +1,5 @@
-## 🌟 HarmonAI III 🌟
-
 <p align="center">
-  <img src="./docs/HarmonAI-III.png" width="100%">
+  <img src="https://raw.githubusercontent.com/Sunwood-ai-labs/HarmonAI_III/refs/heads/main/docs/HarmonAI-III.png" width="100%">
   <h1 align="center">🌟 HarmonAI III 🌟</h1>
 </p>
 
@@ -32,7 +30,7 @@
   ～ AI-Powered Automated Repository Management Template ～
 </h2>
 
-> **[!IMPORTANT]**
+> [!IMPORTANT]
 > HarmonAI III is a template repository developed using [cline (formerly Claude Dev)](https://github.com/clinebot/cline) and [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage).  A significant portion of the release notes, README, and commit messages were generated using the latest AI technology.
 
 ## 🚀 Project Overview
