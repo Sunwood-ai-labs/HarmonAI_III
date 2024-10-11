@@ -25,10 +25,16 @@
   </a>
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Sunwood-ai-labs/HarmonAI_III">
   <img alt="Development Status" src="https://img.shields.io/badge/status-active-success.svg">
+
+
+   
 </p>
 
 <h2 align="center">
   ～ AI-Powered Automated Repository Management Template ～
+
+  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/blob/main/README.md"><img src="https://img.shields.io/badge/ドキュメント-日本語-white.svg" alt="JA doc"/></a>
+  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/blob/main/docs/README.en.md"><img src="https://img.shields.io/badge/english-document-white.svg" alt="EN doc"></a>
 </h2>
 
 > [!IMPORTANT]
