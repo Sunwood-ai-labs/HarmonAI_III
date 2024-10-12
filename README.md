@@ -24,6 +24,49 @@
   </a>
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Sunwood-ai-labs/HarmonAI_III">
   <img alt="Development Status" src="https://img.shields.io/badge/status-active-success.svg">
+  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/issues">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/Sunwood-ai-labs/HarmonAI_III">
+  </a>
+  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/network/members">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/Sunwood-ai-labs/HarmonAI_III?style=social">
+  </a>
+  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/watchers">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Sunwood-ai-labs/HarmonAI_III?style=social">
+  </a>
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Sunwood-ai-labs/HarmonAI_III">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Sunwood-ai-labs/HarmonAI_III">
+  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/graphs/contributors">
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Sunwood-ai-labs/HarmonAI_III">
+  </a>
+  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/issues?q=is%3Aissue+is%3Aclosed">
+    <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/Sunwood-ai-labs/HarmonAI_III">
+  </a>
+  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/pulls?q=is%3Apr+is%3Aclosed">
+    <img alt="GitHub closed PRs" src="https://img.shields.io/github/issues-pr-closed/Sunwood-ai-labs/HarmonAI_III">
+  </a>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Sunwood-ai-labs/HarmonAI_III">
+  <img alt="GitHub search hit counter" src="https://img.shields.io/github/search/Sunwood-ai-labs/HarmonAI_III/goto">
+  <img alt="GitHub code size" src="https://img.shields.io/github/languages/code-size/Sunwood-ai-labs/HarmonAI_III">
+  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/blob/main/CONTRIBUTING.md">
+    <img src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg" alt="Contributor Covenant">
+  </a>
+  <a href="https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20project%3A&url=https%3A%2F%2Fgithub.com%2FSunwood-ai-labs%2FHarmonAI_III">
+    <img alt="Twitter" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FSunwood-ai-labs%2FHarmonAI_III">
+  </a>
+  <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Sunwood-ai-labs/HarmonAI_III">
+  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/deployments">
+    <img alt="GitHub deployments" src="https://img.shields.io/github/deployments/Sunwood-ai-labs/HarmonAI_III/Production">
+  </a>
+  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/discussions">
+    <img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/Sunwood-ai-labs/HarmonAI_III">
+  </a>
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Sunwood-ai-labs?style=social">
+  <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/Sunwood-ai-labs/HarmonAI_III">
+  <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/y/Sunwood-ai-labs/HarmonAI_III/main">
+  <img alt="GitHub commits since latest release (by date)" src="https://img.shields.io/github/commits-since/Sunwood-ai-labs/HarmonAI_III/latest">
+  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/actions">
+    <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/Sunwood-ai-labs/HarmonAI_III/generate-release-notes.yml">
+  </a>
 </p>
 
 <h2 align="center">
@@ -34,8 +77,7 @@
 </h2>
 
 > [!IMPORTANT]
->  HarmonAI IIIは、[cline (旧:Claude Dev)](https://github.com/clinebot/cline), [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage)を活用して開発されたテンプレートリポジトリです。リリースノート、README、コミットメッセージの大部分は、最新のAI技術を用いて生成されています。
-
+>  HarmonAI IIIは、[cline (旧:Claude Dev)](https://github.com/clinebot/cline), [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage), [claude.ai](https://claude.ai/)を活用して開発されたテンプレートリポジトリです。リリースノート、README、コミットメッセージの大部分は、最新のAI技術を用いて生成されています。
 ## 🚀 プロジェクト概要
 
 HarmonAI IIIは、AIRAとIRISを統合した革新的な**AIリポジトリスターターキット**です。このリポジトリは、LLMを活用したAI開発プロジェクトの構造とワークフローを提供し、開発者の作業効率を劇的に向上させることを目的としています。バージョン: `v1.1.0`
@@ -115,6 +157,39 @@ HarmonAI IIIの環境を構築するには、以下の手順に従ってくだ�
 - リリースノートの自動生成
 - READMEの自動翻訳
 
+## 🤝 コラボレーターの自動招待
+
+HarmonAI IIIには、GitHubリポジトリにコラボレーターを自動で招待するスクリプトが含まれています。以下の手順で使用できます：
+
+1. `.env` ファイルを作成し、必要なトークンを設定します：
+   ```
+   # GitHubアクセストークン（コラボレーター招待用）
+   GITHUB_TOKEN=your_github_personal_access_token_here
+
+   # 以下は他の機能で使用する可能性のあるトークンの例です。記載しておくと後々便利です。
+   # GITHUB_ACCESS_TOKEN=ghp_xxxxx
+   # YOUR_PERSONAL_ACCESS_TOKEN_IRIS=ghp_yyyyy
+   # GEMINI_API_KEY=AIzzzzz
+   ```
+
+   注意: `.env` ファイルは `.gitignore` に含めて、リポジトリにコミットしないようにしてください。
+
+2. 以下のコマンドを実行してコラボレーターを招待します：
+   ```bash
+   python .github/github_add_collaborator.py Sunwood-ai-labs/HarmonAI_III username_to_invite
+   ```
+
+   `username_to_invite` は招待したいGitHubユーザー名に置き換えてください。
+
+3. スクリプトが正常に実行されると、指定したユーザーにコラボレーター招待が送信されます。
+
+注意事項：
+- このスクリプトを使用するには、GitHubトークンに適切な権限（`repo` スコープ）が必要です。
+- 組織のリポジトリに対して使用する場合は、組織の設定で適切な権限が付与されていることを確認してください。
+- セキュリティのため、トークンは定期的に更新し、必要最小限の権限のみを付与するようにしてください。
+- `.env` ファイルやトークンを含む情報は、決して公開リポジトリにコミットしないでください。
+
+この機能により、プロジェクトへの新しいコントリビューターの追加プロセスが簡素化されます。セキュリティを維持しながら、効率的にチームを拡大することができます。
 
 ## 🐈 処理フロー
 
@@ -139,6 +214,7 @@ graph LR
     class A,J,K process;
 
 ```
+
 
 
 ## 🤝 コントリビューション
