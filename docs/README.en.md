@@ -64,11 +64,19 @@
   <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/Sunwood-ai-labs/HarmonAI_III">
   <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/y/Sunwood-ai-labs/HarmonAI_III/main">
   <img alt="GitHub commits since latest release (by date)" src="https://img.shields.io/github/commits-since/Sunwood-ai-labs/HarmonAI_III/latest">
-  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/actions">
-    <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/Sunwood-ai-labs/HarmonAI_III/generate-release-notes.yml">
+
+
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/actions/workflows/generate-release-notes.yml">
+  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/Sunwood-ai-labs/HarmonAI_III/generate-release-notes.yml?label=generate-auto-release-notes">  
+  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/actions/workflows/translate-readme.yml">
+  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/Sunwood-ai-labs/HarmonAI_III/generate-release-notes.yml?label=auto-translate-readme">
+  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/actions/workflows/issue-review.yml">
+  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/Sunwood-ai-labs/HarmonAI_III/generate-release-notes.yml?label=auto-issue-review">
+</p>
 <h2 align="center">
   ～ AI-Powered Automated Repository Management Template ～
 
@@ -77,7 +85,7 @@
 </h2>
 
 > **[!IMPORTANT]**
-> HarmonAI III is a template repository developed using [cline (formerly Claude Dev)](https://github.com/clinebot/cline), [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage), and [claude.ai](https://claude.ai/).  The majority of the release notes, README, and commit messages were generated using the latest AI technologies.
+> HarmonAI III is a template repository developed using [cline (formerly Claude Dev)](https://github.com/clinebot/cline), [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage), and [claude.ai](https://claude.ai/).  Most of the release notes, README, and commit messages are generated using the latest AI technology.
 
 ## 🚀 Project Overview
 
@@ -86,16 +94,16 @@ HarmonAI III is an innovative **AI repository starter kit** integrating AIRA and
 
 ## 🆕 Latest News
 
-- 🎉 **2024-10-11**: **HarmonAI III** [Release v1.1.0](https://github.com/Sunwood-ai-labs/HarmonAI_III/releases/tag/v1.1.0)  Added documentation links.
+- 🎉 **2024-10-11**: **HarmonAI III** [Release v1.1.0](https://github.com/Sunwood-ai-labs/HarmonAI_III/releases/tag/v1.1.0) Added documentation links.
 - 🎉 **2024-10-11**: **HarmonAI III** [Release v1.0.0](https://github.com/Sunwood-ai-labs/HarmonAI_III/releases/tag/v1.0.0) Project started.
 
-## ✨ Key Features
+## ✨ Main Features
 
 1. **Integrated AI Toolset**: Provides the functionality of AIRA and IRIS in one package.
-2. **Ready-to-Use**: Easily create a repository with a high-quality initial structure by using it as a template.
+2. **Ready to Use**: Easily create a repository with a high-quality initial structure by using it as a template.
 3. **Automated Development Workflow**: Automates commit message generation, release note creation, and issue management.
 4. **Multilingual Support**: Supports international project deployment through automated README translation.
-5. **Flexible Customization**: Easily adjustable to suit the needs of your project.
+5. **Flexible Customization**: Easily adaptable to the needs of your project.
 
 ## 🔧 How to Use
 
@@ -109,7 +117,7 @@ aira --mode sourcesage commit  --config=.aira\config.dev.commit.yml --ss-model-n
 Refer to the documentation of each component for detailed usage instructions.
 
 
-## 📦 Installation Instructions
+## 📦 Installation
 
 1. Use this repository as a template to create a new repository.
 2. Clone the repository locally.
@@ -124,7 +132,7 @@ Refer to the documentation of each component for detailed usage instructions.
 
 ## 🌿 Environment Setup
 
-Follow these steps to set up the HarmonAI III environment:
+To set up the HarmonAI III environment, follow these steps:
 
 1. Create a virtual environment:
    ```bash
@@ -143,10 +151,10 @@ Follow these steps to set up the HarmonAI III environment:
    pip install -r requirements.txt
    ```
 
-These steps will prepare your development environment for HarmonAI III.
+These steps will prepare the development environment for HarmonAI III.
 
 
-## 📚 Main Components
+## 📚 Major Components
 
 ### 🤖 [AIRA (AI-Integrated Repository for Accelerated Development)](https://github.com/Sunwood-ai-labs/AIRA)
 - Automated repository creation
@@ -160,14 +168,14 @@ These steps will prepare your development environment for HarmonAI III.
 
 ## 🤝 Automated Collaborator Invitation
 
-HarmonAI III includes a script to automatically invite collaborators to the GitHub repository.  You can use it as follows:
+HarmonAI III includes a script to automatically invite collaborators to the GitHub repository.  You can use it with the following steps:
 
 1. Create a `.env` file and set the necessary tokens:
    ```
    # GitHub access token (for collaborator invitation)
    GITHUB_TOKEN=your_github_personal_access_token_here
 
-   # The following are examples of tokens that may be used by other functions.  It's helpful to include them for future use.
+   # The following are examples of tokens that may be used by other functions.  It's convenient to list them for later use.
    # GITHUB_ACCESS_TOKEN=ghp_xxxxx
    # YOUR_PERSONAL_ACCESS_TOKEN_IRIS=ghp_yyyyy
    # GEMINI_API_KEY=AIzzzzz
@@ -175,22 +183,22 @@ HarmonAI III includes a script to automatically invite collaborators to the GitH
 
    Note: Include the `.env` file in `.gitignore` to prevent it from being committed to the repository.
 
-2. Run the following command to invite collaborators:
+2. Run the following command to invite a collaborator:
    ```bash
    python .github/github_add_collaborator.py Sunwood-ai-labs/HarmonAI_III username_to_invite
    ```
 
    Replace `username_to_invite` with the GitHub username you want to invite.
 
-3. Once the script runs successfully, a collaborator invitation will be sent to the specified user.
+3. Once the script executes successfully, a collaborator invitation will be sent to the specified user.
 
-**Cautions:**
+Precautions:
 - This script requires the GitHub token to have appropriate permissions (the `repo` scope).
-- When using it for an organization's repository, ensure that the appropriate permissions are granted in the organization's settings.
+- When using it for an organization's repository, make sure that appropriate permissions are granted in the organization's settings.
 - For security, update the token regularly and grant only the minimum necessary permissions.
 - Never commit information including the `.env` file or tokens to a public repository.
 
-This feature simplifies the process of adding new contributors to the project.  You can efficiently expand your team while maintaining security.
+This feature simplifies the process of adding new contributors to the project. You can efficiently expand your team while maintaining security.
 
 ## 🐈 Process Flow
 
@@ -226,10 +234,10 @@ HarmonAI III welcomes contributions from the community as an open-source project
 
 HarmonAI III is released under the [MIT License](LICENSE).
 
-## 🙏 Acknowledgements
+## 🙏 Acknowledgments
 
-Many open-source projects have inspired the development of HarmonAI III.  We especially thank the developers of AIRA and IRIS.  Thanks also to iris-s-coon and Maki.
+HarmonAI III has drawn inspiration from many open-source projects during its development.  We especially thank the developers of AIRA and IRIS.  We also thank iris-s-coon and Maki.
 
 ---
 
-HarmonAI III is an excellent starter kit for realizing an AI-driven development process.  Start developing innovative AI projects based on this template!
+HarmonAI III is an excellent starter kit for realizing an AI-driven development process. Let's start developing innovative AI projects based on this template!
