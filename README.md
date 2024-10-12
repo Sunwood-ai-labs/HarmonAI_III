@@ -64,11 +64,19 @@
   <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/Sunwood-ai-labs/HarmonAI_III">
   <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/y/Sunwood-ai-labs/HarmonAI_III/main">
   <img alt="GitHub commits since latest release (by date)" src="https://img.shields.io/github/commits-since/Sunwood-ai-labs/HarmonAI_III/latest">
-  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/actions">
-    <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/Sunwood-ai-labs/HarmonAI_III/generate-release-notes.yml">
+
+
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/actions/workflows/generate-release-notes.yml">
+  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/Sunwood-ai-labs/HarmonAI_III/generate-release-notes.yml?label=generate-auto-release-notes">  
+  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/actions/workflows/translate-readme.yml">
+  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/Sunwood-ai-labs/HarmonAI_III/generate-release-notes.yml?label=auto-translate-readme">
+  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/actions/workflows/issue-review.yml">
+  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/Sunwood-ai-labs/HarmonAI_III/generate-release-notes.yml?label=auto-issue-review">
+</p>
 <h2 align="center">
   ～ AI-Powered Automated Repository Management Template ～
 
