@@ -1,3 +1,15 @@
+---
+title: HarmonAI III
+emoji: 🦀
+colorFrom: green
+colorTo: blue
+sdk: streamlit
+sdk_version: 1.39.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sunwood-ai-labs/HarmonAI_III/refs/heads/main/docs/HarmonAI-III.png" width="100%">
   <h1 align="center">🌟 HarmonAI III 🌟</h1>
@@ -57,8 +69,8 @@
   </a>
 </p>
 
-> **[!IMPORTANT]**
-> HarmonAI III is a template repository developed using [cline (formerly Claude Dev)](https://github.com/clinebot/cline), [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage), and [claude.ai](https://claude.ai/).  Most of the release notes, README, and commit messages were generated using the latest AI technology.
+> [!IMPORTANT]
+> HarmonAI III is a template repository developed using [cline (formerly Claude Dev)](https://github.com/clinebot/cline), [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage), and [claude.ai](https://claude.ai/).  The majority of the release notes, README, and commit messages were generated using the latest AI technology.
 
 ## 🚀 Project Overview
 
@@ -75,8 +87,8 @@ HarmonAI III is an innovative **AI repository starter kit** integrating AIRA and
 1. **Integrated AI Toolset**: Provides the functionality of AIRA and IRIS in a single package.
 2. **Ready to Use**: Easily create a repository with a high-quality initial structure by using it as a template.
 3. **Automated Development Workflow**: Automates commit message generation, release note creation, and issue management.
-4. **Multilingual Support**: Supports international project deployment through automatic README translation.
-5. **Flexible Customization**: Easily adaptable to the needs of your project.
+4. **Multilingual Support**: Supports international project deployment through automated README translation.
+5. **Flexible Customization**: Easily adjustable to meet the needs of your project.
 6. **Automated Collaborator Invitation**: Collaborator invitation script using the GitHub API.
 
 
@@ -107,7 +119,7 @@ Refer to the documentation for each component for detailed usage instructions.
 
 ## 🌿 Environment Setup
 
-To set up the HarmonAI III environment, follow these steps:
+Follow these steps to set up the HarmonAI III environment:
 
 1. Create a virtual environment:
    ```bash
@@ -132,18 +144,18 @@ These steps will prepare the development environment for HarmonAI III.
 ## 📚 Main Components
 
 ### 🤖 [AIRA (AI-Integrated Repository for Accelerated Development)](https://github.com/Sunwood-ai-labs/AIRA)
-- Automates repository creation.
-- Automatically generates commit messages.
+- Automated repository creation
+- Automated commit message generation
 
 ### 🌈 [IRIS (Intelligent Repository Issue Solver)](https://github.com/Sunwood-ai-labs/IRIS)
-- Automatically classifies issues.
-- Automatically suggests solutions.
-- Automatically generates release notes.
-- Automatically translates READMEs.
+- Automated issue classification
+- Automated solution suggestions
+- Automated release note generation
+- Automated README translation
 
 ## 🤝 Automated Collaborator Invitation
 
-HarmonAI III includes a script to automatically invite collaborators to the GitHub repository.  You can use it with the following steps:
+HarmonAI III includes a script to automatically invite collaborators to the GitHub repository.  It can be used as follows:
 
 1. Create a `.env` file and set the necessary tokens:
    ```
@@ -156,24 +168,24 @@ HarmonAI III includes a script to automatically invite collaborators to the GitH
    # GEMINI_API_KEY=AIzzzzz
    ```
 
-   Note: Add the `.env` file to `.gitignore` to prevent it from being committed to the repository.
+   Note: Include the `.env` file in `.gitignore` to prevent it from being committed to the repository.
 
-2. Run the following command to invite a collaborator:
+2. Run the following command to invite collaborators:
    ```bash
    python .github/github_add_collaborator.py Sunwood-ai-labs/HarmonAI_III username_to_invite
    ```
 
    Replace `username_to_invite` with the GitHub username you want to invite.
 
-3. Once the script executes successfully, a collaborator invitation will be sent to the specified user.
+3. Once the script runs successfully, a collaborator invitation will be sent to the specified user.
 
-**Important Notes:**
+Cautions:
 - This script requires the GitHub token to have the appropriate permissions (`repo` scope).
-- When using it for an organization's repository, make sure appropriate permissions are granted in the organization's settings.
-- For security, update the token regularly and grant only the minimum necessary permissions.
-- Never commit information including the `.env` file or tokens to a public repository.
+- When using it for an organization's repository, ensure that the appropriate permissions are granted in the organization's settings.
+- For security, regularly update the token and grant only the minimum necessary permissions.
+- Never commit information, including the `.env` file or tokens, to a public repository.
 
-This feature simplifies the process of adding new contributors to the project.  You can efficiently expand your team while maintaining security.
+This feature simplifies the process of adding new contributors to the project.  It allows you to efficiently expand your team while maintaining security.
 
 ## 🐈 Processing Flow
 
@@ -182,7 +194,7 @@ This feature simplifies the process of adding new contributors to the project.  
 %%{init:{'theme':'base','themeVariables':{'primaryColor':'#024959','primaryTextColor':'#F2C335','primaryBorderColor':'#F2AE30','lineColor':'#A1A2A6','secondaryColor':'#593E25','tertiaryColor':'#F2C335','noteTextColor':'#024959','noteBkgColor':'#F2C335','textColor':'#024959','fontSize':'18px'}}}%%
 
 graph LR
-    A[Start] --> B[Repository Conception & Naming]
+    A[Start] --> B[Repository Conception and Naming]
     B -->|Human Action| C[HarmonAI III Repository Initialization]
     C -->|Automated| D[Development Work]
     D -->|Human Action| E[AIRA Automated Commits]
@@ -209,10 +221,10 @@ HarmonAI III welcomes contributions from the community as an open-source project
 
 HarmonAI III is released under the [MIT License](LICENSE).
 
-## 🙏 Acknowledgments
+## 🙏 Acknowledgements
 
-Many open-source projects have inspired the development of HarmonAI III.  We especially thank the developers of AIRA and IRIS.  We also thank iris-s-coon and Maki.
+HarmonAI III has drawn inspiration from many open-source projects during its development.  We especially thank the developers of AIRA and IRIS.  We also thank iris-s-coon and Maki.
 
 ---
 
-HarmonAI III is an excellent starter kit for realizing AI-driven development processes.  Let's start developing innovative AI projects based on this template!
+HarmonAI III is an excellent starter kit for realizing an AI-driven development process.  Start developing innovative AI projects based on this template!
