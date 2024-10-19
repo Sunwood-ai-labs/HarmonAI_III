@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/Sunwood-ai-labs/HarmonAI_III/refs/heads/main/docs/HarmonAI-III.png" width="100%">
   <h1 align="center">🌟 HarmonAI III 🌟</h1>
 </p>
-
 <p align="center">
   <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III">
     <img alt="GitHub Repo" src="https://img.shields.io/badge/github-HarmonAI__III-blue?logo=github">
@@ -16,16 +15,11 @@
   <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/releases">
     <img alt="GitHub release" src="https://img.shields.io/github/v/release/Sunwood-ai-labs/HarmonAI_III?include_prereleases&style=flat-square">
   </a>
-  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/graphs/commit-activity">
-    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Sunwood-ai-labs/HarmonAI_III">
+  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/issues">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/Sunwood-ai-labs/HarmonAI_III">
   </a>
   <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/pulls">
     <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square">
-  </a>
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Sunwood-ai-labs/HarmonAI_III">
-  <img alt="Development Status" src="https://img.shields.io/badge/status-active-success.svg">
-  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/issues">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/Sunwood-ai-labs/HarmonAI_III">
   </a>
   <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/network/members">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/Sunwood-ai-labs/HarmonAI_III?style=social">
@@ -35,57 +29,36 @@
   </a>
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Sunwood-ai-labs/HarmonAI_III">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Sunwood-ai-labs/HarmonAI_III">
-  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/graphs/contributors">
-    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Sunwood-ai-labs/HarmonAI_III">
-  </a>
-  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/issues?q=is%3Aissue+is%3Aclosed">
-    <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/Sunwood-ai-labs/HarmonAI_III">
-  </a>
-  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/pulls?q=is%3Apr+is%3Aclosed">
-    <img alt="GitHub closed PRs" src="https://img.shields.io/github/issues-pr-closed/Sunwood-ai-labs/HarmonAI_III">
-  </a>
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Sunwood-ai-labs/HarmonAI_III">
-  <img alt="GitHub search hit counter" src="https://img.shields.io/github/search/Sunwood-ai-labs/HarmonAI_III/goto">
-  <img alt="GitHub code size" src="https://img.shields.io/github/languages/code-size/Sunwood-ai-labs/HarmonAI_III">
-  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/blob/main/CONTRIBUTING.md">
-    <img src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg" alt="Contributor Covenant">
-  </a>
-  <a href="https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20project%3A&url=https%3A%2F%2Fgithub.com%2FSunwood-ai-labs%2FHarmonAI_III">
-    <img alt="Twitter" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FSunwood-ai-labs%2FHarmonAI_III">
-  </a>
-  <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Sunwood-ai-labs/HarmonAI_III">
-  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/deployments">
-    <img alt="GitHub deployments" src="https://img.shields.io/github/deployments/Sunwood-ai-labs/HarmonAI_III/Production">
-  </a>
-  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/discussions">
-    <img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/Sunwood-ai-labs/HarmonAI_III">
-  </a>
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Sunwood-ai-labs?style=social">
-  <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/Sunwood-ai-labs/HarmonAI_III">
-  <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/y/Sunwood-ai-labs/HarmonAI_III/main">
-  <img alt="GitHub commits since latest release (by date)" src="https://img.shields.io/github/commits-since/Sunwood-ai-labs/HarmonAI_III/latest">
-
-
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/actions/workflows/generate-release-notes.yml">
-  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/Sunwood-ai-labs/HarmonAI_III/generate-release-notes.yml?label=generate-auto-release-notes">  
-  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/actions/workflows/translate-readme.yml">
-  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/Sunwood-ai-labs/HarmonAI_III/generate-release-notes.yml?label=auto-translate-readme">
-  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/actions/workflows/issue-review.yml">
-  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/Sunwood-ai-labs/HarmonAI_III/generate-release-notes.yml?label=auto-issue-review">
 </p>
 <h2 align="center">
   ～ AI-Powered Automated Repository Management Template ～
 
-  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/blob/main/README.md"><img src="https://img.shields.io/badge/ドキュメント-日本語-white.svg" alt="JA doc"/></a>
-  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/blob/main/docs/README.en.md"><img src="https://img.shields.io/badge/english-document-white.svg" alt="EN doc"></a>
+<a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/blob/main/README.md"><img src="https://img.shields.io/badge/ドキュメント-日本語-white.svg" alt="JA doc"/></a>
+<a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/blob/main/docs/README.en.md"><img src="https://img.shields.io/badge/english-document-white.svg" alt="EN doc"></a>
 </h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white" alt="Python 3.8+">
+  <img src="https://img.shields.io/badge/OpenAI-GPT--4-blue?logo=openai&logoColor=white" alt="OpenAI GPT-4">
+  <img src="https://img.shields.io/badge/Google-Gemini-blue?logo=google&logoColor=white" alt="Google Gemini">
+  <img src="https://img.shields.io/badge/Git-Version%20Control-blue?logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-blue?logo=github-actions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/YAML-Configuration-blue?logo=yaml&logoColor=white" alt="YAML">
+  <img src="https://img.shields.io/badge/pip-Dependency%20Management-blue?logo=pypi&logoColor=white" alt="pip">
+  <img src="https://img.shields.io/badge/Markdown-Documentation-blue?logo=markdown&logoColor=white" alt="Markdown">
+  <img src="https://img.shields.io/badge/GitHub%20API-Integration-blue?logo=github&logoColor=white" alt="GitHub API">
+</p>
+<p align="center">
+  <a href="https://github.com/Sunwood-ai-labs/AIRA">
+    <img src="https://img.shields.io/badge/AIRA-Auto%20Commit-orange?style=for-the-badge&logo=github" alt="AIRA">
+  </a>
+  <a href="https://github.com/Sunwood-ai-labs/IRIS">
+    <img src="https://img.shields.io/badge/IRIS-Auto%20Repo%20Management-purple?style=for-the-badge&logo=github" alt="IRIS">
+  </a>
+</p>
 
-> [!IMPORTANT]
-> HarmonAI III is a template repository developed using [cline (formerly Claude Dev)](https://github.com/clinebot/cline), [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage), and [claude.ai](https://claude.ai/).  The majority of release notes, README, and commit messages are generated using the latest AI technologies.
+> **[!IMPORTANT]**
+> HarmonAI III is a template repository developed using [cline (formerly Claude Dev)](https://github.com/clinebot/cline), [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage), and [claude.ai](https://claude.ai/).  Most of the release notes, README, and commit messages were generated using the latest AI technology.
 
 ## 🚀 Project Overview
 
@@ -94,7 +67,7 @@ HarmonAI III is an innovative **AI repository starter kit** integrating AIRA and
 
 ## 🆕 Latest News
 
-- 🎉 v1.2.0 released: Added GitHub Shields to the README, added collaborator invitation functionality, and updated documentation.
+- 🎉 v1.2.0 release: Added GitHub Shields to the README, added collaborator invitation functionality, and updated documentation.
 
 
 ## ✨ Key Features
@@ -132,15 +105,15 @@ Refer to the documentation for each component for detailed usage instructions.
 6. Open the `.github/release_notes/.sourcesage_releasenotes_iris.yml` file and change the value of `repo-name:` to your new repository name.
 
 
-## 🌿 Setting up the Environment
+## 🌿 Environment Setup
 
-Follow these steps to set up the HarmonAI III environment:
+To set up the HarmonAI III environment, follow these steps:
 
 1. Create a virtual environment:
    ```bash
    python3 -m venv .venv
    ```
-   This creates a virtual environment in the `.venv` directory.
+   This will create a virtual environment in the `.venv` directory.
 
 2. Activate the virtual environment:
    ```bash
@@ -153,37 +126,37 @@ Follow these steps to set up the HarmonAI III environment:
    pip install -r requirements.txt
    ```
 
-These steps will prepare your development environment for HarmonAI III.
+These steps will prepare the development environment for HarmonAI III.
 
 
 ## 📚 Main Components
 
 ### 🤖 [AIRA (AI-Integrated Repository for Accelerated Development)](https://github.com/Sunwood-ai-labs/AIRA)
-- Automated repository creation
-- Automated commit message generation
+- Automates repository creation.
+- Automatically generates commit messages.
 
 ### 🌈 [IRIS (Intelligent Repository Issue Solver)](https://github.com/Sunwood-ai-labs/IRIS)
-- Automated issue classification
-- Automated solution suggestions
-- Automated release note generation
-- Automated README translation
+- Automatically classifies issues.
+- Automatically suggests solutions.
+- Automatically generates release notes.
+- Automatically translates READMEs.
 
 ## 🤝 Automated Collaborator Invitation
 
-HarmonAI III includes a script to automatically invite collaborators to the GitHub repository.  Use it as follows:
+HarmonAI III includes a script to automatically invite collaborators to the GitHub repository.  You can use it with the following steps:
 
 1. Create a `.env` file and set the necessary tokens:
    ```
    # GitHub access token (for collaborator invitation)
    GITHUB_TOKEN=your_github_personal_access_token_here
 
-   # The following are examples of tokens that may be used by other functions.  It's convenient to list them for later use.
+   # The following are examples of tokens that may be used by other functions.  It's convenient to include them for later use.
    # GITHUB_ACCESS_TOKEN=ghp_xxxxx
    # YOUR_PERSONAL_ACCESS_TOKEN_IRIS=ghp_yyyyy
    # GEMINI_API_KEY=AIzzzzz
    ```
 
-   Note: Include the `.env` file in `.gitignore` to prevent it from being committed to the repository.
+   Note: Add the `.env` file to `.gitignore` to prevent it from being committed to the repository.
 
 2. Run the following command to invite a collaborator:
    ```bash
@@ -192,24 +165,24 @@ HarmonAI III includes a script to automatically invite collaborators to the GitH
 
    Replace `username_to_invite` with the GitHub username you want to invite.
 
-3. Once the script runs successfully, a collaborator invitation will be sent to the specified user.
+3. Once the script executes successfully, a collaborator invitation will be sent to the specified user.
 
-Cautions:
-- This script requires the GitHub token to have appropriate permissions (the `repo` scope).
-- When using it for an organization's repository, ensure that appropriate permissions are granted in the organization's settings.
-- For security reasons, update tokens regularly and grant only the minimum necessary permissions.
+**Important Notes:**
+- This script requires the GitHub token to have the appropriate permissions (`repo` scope).
+- When using it for an organization's repository, make sure appropriate permissions are granted in the organization's settings.
+- For security, update the token regularly and grant only the minimum necessary permissions.
 - Never commit information including the `.env` file or tokens to a public repository.
 
-This feature simplifies the process of adding new contributors to the project. You can efficiently expand your team while maintaining security.
+This feature simplifies the process of adding new contributors to the project.  You can efficiently expand your team while maintaining security.
 
-## 🐈 Process Flow
+## 🐈 Processing Flow
 
 
 ```mermaid
 %%{init:{'theme':'base','themeVariables':{'primaryColor':'#024959','primaryTextColor':'#F2C335','primaryBorderColor':'#F2AE30','lineColor':'#A1A2A6','secondaryColor':'#593E25','tertiaryColor':'#F2C335','noteTextColor':'#024959','noteBkgColor':'#F2C335','textColor':'#024959','fontSize':'18px'}}}%%
 
 graph LR
-    A[Start] --> B[Repository Conception and Naming]
+    A[Start] --> B[Repository Conception & Naming]
     B -->|Human Action| C[HarmonAI III Repository Initialization]
     C -->|Automated| D[Development Work]
     D -->|Human Action| E[AIRA Automated Commits]
@@ -230,7 +203,7 @@ graph LR
 
 ## 🤝 Contributions
 
-HarmonAI III welcomes contributions from the community as an open-source project.  Help improve this template repository through bug reports, feature requests, and pull requests.
+HarmonAI III welcomes contributions from the community as an open-source project.  Please help improve this template repository through bug reports, feature requests, and pull requests.
 
 ## 📄 License
 
@@ -238,8 +211,8 @@ HarmonAI III is released under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
-HarmonAI III has been inspired by many open-source projects. We especially thank the developers of AIRA and IRIS.  We also thank iris-s-coon and Maki.
+Many open-source projects have inspired the development of HarmonAI III.  We especially thank the developers of AIRA and IRIS.  We also thank iris-s-coon and Maki.
 
 ---
 
-HarmonAI III is an excellent starter kit for achieving an AI-driven development process. Let's start developing innovative AI projects based on this template!
+HarmonAI III is an excellent starter kit for realizing AI-driven development processes.  Let's start developing innovative AI projects based on this template!
