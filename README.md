@@ -49,25 +49,26 @@ license: mit
 <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/blob/main/docs/README.en.md"><img src="https://img.shields.io/badge/english-document-white.svg" alt="EN doc"></a>
 </h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white" alt="Python 3.8+">
-  <img src="https://img.shields.io/badge/OpenAI-GPT--4-blue?logo=openai&logoColor=white" alt="OpenAI GPT-4">
-  <img src="https://img.shields.io/badge/Google-Gemini-blue?logo=google&logoColor=white" alt="Google Gemini">
-  <img src="https://img.shields.io/badge/Git-Version%20Control-blue?logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-blue?logo=github-actions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/YAML-Configuration-blue?logo=yaml&logoColor=white" alt="YAML">
-  <img src="https://img.shields.io/badge/pip-Dependency%20Management-blue?logo=pypi&logoColor=white" alt="pip">
-  <img src="https://img.shields.io/badge/Markdown-Documentation-blue?logo=markdown&logoColor=white" alt="Markdown">
-  <img src="https://img.shields.io/badge/GitHub%20API-Integration-blue?logo=github&logoColor=white" alt="GitHub API">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google" alt="Google Gemini">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
+  <img src="https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=github-actions" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml" alt="YAML">
+  <img src="https://img.shields.io/badge/pip-3775A9?style=for-the-badge&logo=pypi" alt="pip">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown" alt="Markdown">
+  <img src="https://img.shields.io/badge/GitHub_API-181717?style=for-the-badge&logo=github" alt="GitHub API">
 </p>
 <p align="center">
   <a href="https://github.com/Sunwood-ai-labs/AIRA">
-    <img src="https://img.shields.io/badge/AIRA-Auto%20Commit-orange?style=for-the-badge&logo=github" alt="AIRA">
+    <img src="https://img.shields.io/badge/AIRA-FF4500?style=for-the-badge&logo=github" alt="AIRA">
   </a>
   <a href="https://github.com/Sunwood-ai-labs/IRIS">
-    <img src="https://img.shields.io/badge/IRIS-Auto%20Repo%20Management-purple?style=for-the-badge&logo=github" alt="IRIS">
+    <img src="https://img.shields.io/badge/IRIS-9370DB?style=for-the-badge&logo=github" alt="IRIS">
   </a>
 </p>
+
 
 > [!IMPORTANT]
 >  HarmonAI IIIは、[cline (旧:Claude Dev)](https://github.com/clinebot/cline), [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage), [claude.ai](https://claude.ai/)を活用して開発されたテンプレートリポジトリです。リリースノート、README、コミットメッセージの大部分は、最新のAI技術を用いて生成されています。
