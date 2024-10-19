@@ -1,3 +1,16 @@
+
+---
+title: HarmonAI III
+emoji: 🦀
+colorFrom: green
+colorTo: blue
+sdk: streamlit
+sdk_version: 1.39.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sunwood-ai-labs/HarmonAI_III/refs/heads/main/docs/HarmonAI-III.png" width="100%">
   <h1 align="center">🌟 HarmonAI III 🌟</h1>
