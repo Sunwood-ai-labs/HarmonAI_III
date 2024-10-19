@@ -1,4 +1,3 @@
-
 ---
 title: HarmonAI III
 emoji: 🦀
