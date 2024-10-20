@@ -46,3 +46,8 @@ if __name__ == "__main__":
     except Exception as e:
         logger.exception(f"更新処理中にエラーが発生しました: {str(e)}")
         sys.exit(1)
+
+# ---------------------------
+# コマンドメモ
+#
+# python .github\setup\update_repo_name.py x-archive-visualizer
