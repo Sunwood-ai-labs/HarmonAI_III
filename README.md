@@ -44,7 +44,7 @@ license: mit
 </p>
 <h2 align="center">
   ～ AI-Powered Automated Repository Management Template ～
-  
+
 <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/blob/main/README.md"><img src="https://img.shields.io/badge/ドキュメント-日本語-white.svg" alt="JA doc"/></a>
 <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/blob/main/docs/README.en.md"><img src="https://img.shields.io/badge/english-document-white.svg" alt="EN doc"></a>
 </h2>
@@ -75,12 +75,12 @@ license: mit
 
 ## 🚀 プロジェクト概要
 
-HarmonAI IIIは、AIRAとIRISを統合した革新的な**AIリポジトリスターターキット**です。このリポジトリは、LLMを活用したAI開発プロジェクトの構造とワークフローを提供し、開発者の作業効率を劇的に向上させることを目的としています。バージョン: `v1.2.0`
+HarmonAI IIIは、AIRAとIRISを統合した革新的な**AIリポジトリスターターキット**です。このリポジトリは、LLMを活用したAI開発プロジェクトの構造とワークフローを提供し、開発者の作業効率を劇的に向上させることを目的としています。バージョン: `v1.3.0`
 
 
 ## 🆕 最新情報
 
-- 🎉 v1.2.0リリース: READMEへのGitHub Shieldsの追加、コラボレーター招待機能の追加、ドキュメントの更新を行いました。
+- 🎉 **v1.3.0リリース**: Streamlitアプリの基本構造作成、READMEファイルのデザイン改善、いくつかのバグ修正、およびドキュメントの更新を行いました。  StreamlitアプリではREADME.mdファイルを読み込んで表示する機能を実装しました。  README.mdファイルが存在しない場合のエラー処理も追加されています。  さらに、GitHubリポジトリへのコラボレーター追加スクリプト、Hugging Face Hubへの自動同期ワークフロー、PyPIへの自動デプロイワークフローを追加しました。
 
 
 ## ✨ 主な機能
@@ -91,9 +91,14 @@ HarmonAI IIIは、AIRAとIRISを統合した革新的な**AIリポジトリス�
 4. **多言語サポート**: READMEの自動翻訳機能により、国際的なプロジェクト展開をサポート
 5. **柔軟なカスタマイズ**: プロジェクトのニーズに合わせて容易に調整可能
 6. **コラボレーター自動招待**: GitHub APIを利用したコラボレーター招待スクリプト
+7. **Streamlitアプリ**: README.mdファイルを表示する基本的なStreamlitアプリケーション
 
 
 ## 🔧 使用方法
+
+### Streamlitアプリの実行
+1. `pip install -r requirements.txt` で必要なパッケージをインストールします。
+2. `streamlit run app.py` を実行します。
 
 ### AIRAの使用例：
 ```bash
